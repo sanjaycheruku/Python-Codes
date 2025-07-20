@@ -1,6 +1,7 @@
 a="jjjbjjj"
 for i in  a :
     if i=='b':
-        break
+        pass
 
+    print(i,end= " ")
     print(i)
